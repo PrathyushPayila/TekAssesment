@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="org.tek.interview.question.test" project="Coding Assesment" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="org.tek.interview.question.test.OrderUnitTests" time="0.001">
+    <testcase name="getPriceTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="orderSizeTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="getQuantityTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="roundingNotEqualTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="orderLineNotNullExceptionTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="roundingEqualTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.0"/>
+    <testcase name="getDescriptionTest" classname="org.tek.interview.question.test.OrderUnitTests" time="0.001"/>
+  </testsuite>
+</testrun>
