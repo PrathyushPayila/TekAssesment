@@ -49,14 +49,14 @@ public class calculator {
 				}
 
 				// Calculate the total price
-				double totalpric = r.get(i).getItem().getPrice() + rounding(tax);
+				double totalprice = r.get(i).getItem().getPrice() + rounding(tax);
 
 				// Print out the item's total price
-				System.out.println(r.get(i).getItem().getDescription() + ": " + rounding(totalpric));
+				System.out.println(r.get(i).getItem().getDescription() + ": " + rounding(totalprice));
 
 				// Keep a running total
 				totalTax += tax;
-				total += totalpric;  // totalprice is calculated . but not used. accessing old values
+				total += totalprice;  // totalprice is calculated . but not used. accessing old values
 			}
 
 			// Print out the total taxes
