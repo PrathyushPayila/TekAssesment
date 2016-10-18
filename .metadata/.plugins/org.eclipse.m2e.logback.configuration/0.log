@@ -1,0 +1,252 @@
+2016-10-17 20:35:46,148 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Coding Assesment:Coding Assesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:35:47,858 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:47,863 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:35:47,866 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:48,138 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:35:48,176 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src
+2016-10-17 20:35:48,177 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Coding Assesment/src/test/java because it overlaps with /Coding Assesment/src
+2016-10-17 20:35:48,438 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-17 20:35:49,540 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Coding Assesment:Coding Assesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:35:50,316 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:50,317 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:35:50,320 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:50,321 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:35:50,945 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src
+2016-10-17 20:35:50,947 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Coding Assesment/src/test/java because it overlaps with /Coding Assesment/src
+2016-10-17 20:35:51,021 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-10-17 20:35:51,948 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:51,949 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:35:51,951 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:35:51,952 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:36:44,562 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:36:45,114 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:36:45,116 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:36:45,118 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:36:45,119 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:38:27,835 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:38:27,836 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:38:27,839 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:38:27,841 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:00,016 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:00,018 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:00,019 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:00,021 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:10,906 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:10,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:10,909 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:10,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:20,373 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:20,375 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:20,377 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:20,380 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:29,541 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:29,542 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:29,544 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:29,546 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:38,406 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:38,407 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:38,409 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:38,409 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:39:54,207 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:54,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:39:54,213 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:39:54,214 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:41:21,883 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:41:22,177 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:22,179 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:41:22,181 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:22,183 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:41:24,043 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:24,044 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:41:24,048 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:24,049 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:41:30,099 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:30,101 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:41:30,102 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:41:30,104 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:44:03,671 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:44:04,281 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2016-10-17 20:44:04,335 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2016-10-17 20:44:04,441 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2016-10-17 20:44:04,706 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2016-10-17 20:44:05,194 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:05,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:44:05,198 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:05,199 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:44:07,178 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:07,179 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:44:07,184 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:07,185 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:44:26,058 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:44:26,439 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:26,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:44:26,444 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:26,445 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:44:44,474 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-17 20:44:45,080 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:44:45,289 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Coding Assesment/src/main/java because it overlaps with /Coding Assesment/src
+2016-10-17 20:44:45,290 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Coding Assesment/src/test/java because it overlaps with /Coding Assesment/src
+2016-10-17 20:44:45,469 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-10-17 20:44:45,640 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:45,641 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:44:45,644 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:44:45,646 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:45:41,100 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:45:41,457 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:45:41,458 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:45:41,460 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:45:41,461 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:45:57,014 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-17 20:45:57,806 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:45:58,096 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src/main/java
+2016-10-17 20:45:58,097 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src/test/java
+2016-10-17 20:45:58,197 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-10-17 20:45:58,366 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:45:58,367 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:45:58,370 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:45:58,371 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:46:42,867 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:46:43,141 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:46:43,142 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:46:43,144 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:46:43,145 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:46:53,025 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-17 20:46:53,696 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:46:53,912 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src/main/java
+2016-10-17 20:46:53,913 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Coding Assesment/src/test/java
+2016-10-17 20:46:54,014 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-10-17 20:46:54,226 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:46:54,228 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:46:54,231 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:46:54,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:47:41,715 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:47:42,022 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:47:42,036 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:47:42,041 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:47:42,043 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:48:37,307 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 20:48:37,531 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:48:37,532 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:48:37,536 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:48:37,537 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:49:42,047 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:49:42,049 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:49:42,053 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:49:42,054 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:50:47,420 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:50:47,421 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:50:47,423 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:50:47,424 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 20:51:14,345 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:51:14,347 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 20:51:14,349 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 20:51:14,350 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:09:13,022 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:09:13,024 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:09:13,026 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:09:13,027 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:13:13,440 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:13:13,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:13:13,442 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:13:13,443 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:13:37,069 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:13:37,071 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:13:37,073 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:13:37,074 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:17:39,857 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingAssesment:CodingAssesment:0.0.1-SNAPSHOT @ C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\pom.xml.
+2016-10-17 21:17:40,166 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:17:40,167 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:17:40,169 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:17:40,171 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:19:24,186 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:19:24,187 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:19:24,188 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:19:24,189 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:24:34,102 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:24:34,104 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:24:34,106 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:24:34,107 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:24:53,835 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:24:53,836 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:24:53,837 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:24:53,838 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:25:09,577 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:25:09,578 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:25:09,581 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:25:09,582 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:28:51,869 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:28:51,871 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:28:51,872 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:28:51,873 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:29:22,651 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:29:22,653 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:29:22,655 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:29:22,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:30:13,117 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:30:13,118 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:30:13,121 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:30:13,123 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:30:50,465 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:30:50,467 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:30:50,469 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:30:50,470 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:31:01,412 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:31:01,414 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:31:01,416 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:31:01,417 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:31:30,754 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:31:30,755 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:31:30,757 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:31:30,758 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:32:03,907 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:03,908 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:32:03,910 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:03,911 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:32:14,569 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:14,570 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:32:14,572 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:14,574 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:32:44,583 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:44,584 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:32:44,585 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:32:44,586 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:33:50,876 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:33:50,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:33:50,879 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:33:50,880 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:34:33,174 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:34:33,176 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:34:33,179 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:34:33,181 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:34:42,264 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:34:42,265 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:34:42,266 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:34:42,267 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:35:08,679 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:35:08,680 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:35:08,681 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:35:08,682 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:37:52,844 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:37:52,845 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:37:52,846 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:37:52,847 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:38:22,172 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:38:22,174 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:38:22,176 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:38:22,178 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:38:52,705 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:38:52,706 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:38:52,708 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:38:52,709 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:39:07,534 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:39:07,535 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:39:07,536 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:39:07,537 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:39:39,062 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:39:39,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:39:39,068 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:39:39,070 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources
+2016-10-17 21:40:16,228 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:40:16,229 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\main\resources
+2016-10-17 21:40:16,231 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 21:40:16,232 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\Coding Assesment\Coding Assesment\src\test\resources

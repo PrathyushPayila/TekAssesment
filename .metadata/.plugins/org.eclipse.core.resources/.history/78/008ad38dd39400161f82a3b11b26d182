@@ -1,0 +1,86 @@
+package org.tek.interview.question.test;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+import org.tek.interview.question.Item;
+import org.tek.interview.question.Order;
+import org.tek.interview.question.OrderLine;
+import org.tek.interview.question.calculator;
+
+public class OrderUnitTests {
+	
+	
+	Order c1;
+	Map<String, Order> o;
+	Item item,item1,item2;
+	OrderLine orderLine,orderLine1,orderLine2;
+	Order order;
+
+	@Before
+	public void init() throws Exception{
+		o = new HashMap<String, Order>();
+		item = new Item("Book",10.0f);
+		orderLine = new OrderLine(item,2);
+		
+		c1 = new Order();
+
+		c1.add(new OrderLine(new Item("book", (float) 12.49), 1));
+		c1.add(new OrderLine(new Item("music CD", (float) 14.99), 1));
+		c1.add(new OrderLine(new Item("chocolate bar", (float) 0.85), 1));
+
+		o.put("Order 1", c1);
+
+		item1 = new Item("Book",10.0f);
+		item2 = new Item("Perfume",20.0f);
+		orderLine1 = new OrderLine(item1,2);
+		orderLine2 = new OrderLine(item2,4);
+		List<OrderLine> orderLines = new ArrayList<OrderLine>();
+		orderLines.add(orderLine1);
+		orderLines.add(orderLine2);
+		order = new Order();
+    }
+	
+	@Test
+	public void roundingEqualTest(){
+		Assert.assertEquals(2.24, calculator.rounding(2.2365),0);
+	}
+	@Test
+	public void roundingNotEqualTest(){
+		Assert.assertNotEquals(2.23, calculator.rounding(2.2365),0);
+	}
+	
+	@Test
+	public void getDescriptionTest(){
+		Assert.assertEquals("Book",item.getDescription());
+	}
+	
+	@Test
+	public void getPriceTest(){
+		Assert.assertEquals(10.0, item.getPrice(), 0.0);;
+	}
+	
+	@Test
+	public void orderLineNotNullExceptionTest() throws Exception{
+		order.add(orderLine1);
+		order.add(orderLine2);
+	}
+
+	@Test
+	public void orderSizeTest() throws Exception{
+		order.add(orderLine1);
+		order.add(orderLine2);
+		Assert.assertEquals(2,order.size(),0);
+	}	
+	
+	@Test
+	public void getQuantityTest(){
+		Assert.assertEquals(2, orderLine.getQuantity());
+	}
+
+}
