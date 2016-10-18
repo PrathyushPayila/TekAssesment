@@ -23,8 +23,8 @@ public class OrderLine {
 			throw new Exception("Item is NULL");
 		}
 		assert quantity > 0;
-		this.item = item;               // added this.item = item
-		this.quantity = quantity;       // added this.quantity = quantity
+		this.item = item;             //for referencing the current object's item
+		this.quantity = quantity;     //for referencing the current object's quantity
 	}
 
 	public Item getItem() {

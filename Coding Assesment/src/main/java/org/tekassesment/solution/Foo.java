@@ -1,6 +1,7 @@
 package org.tekassesment.solution;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 
@@ -39,45 +40,37 @@ public class Foo {
 
 	public static void main(String[] args) throws Exception {
 
-		Map<String, Order> o = new HashMap<String, Order>();
+		Map<String, Order> o = new LinkedHashMap<String, Order>(); //to retrive in order they are placed.
 
-		Order c1 = new Order();
+		Order c = new Order();
 
-		c1.add(new OrderLine(new Item("book", (float) 12.49), 1));
-		c1.add(new OrderLine(new Item("music CD", (float) 14.99), 1));
-		c1.add(new OrderLine(new Item("chocolate bar", (float) 0.85), 1));
+		//double grandTotal = 0;  not using it.
 
-		o.put("Order 1", c1);
+		c.add(new OrderLine(new Item("book", (float) 12.49), 1));
+		c.add(new OrderLine(new Item("music CD", (float) 14.99), 1));
+		c.add(new OrderLine(new Item("chocolate bar", (float) 0.85), 1));
 
-		// Reuse cart for an other order
-		//c.clear();
-		//System.out.println(c.size());
-		Order c2 = new Order();
-
-
-		c2.add(new OrderLine(new Item("imported box of chocolate", 10), 1));
-		c2.add(new OrderLine(new Item("imported bottle of perfume", (float) 47.50), 1));
-
-		o.put("Order 2", c2);
+		o.put("Order 1", new Order(c)); //It will put a new object in the Map
 
 		// Reuse cart for an other order
-		//c.clear();
-		//System.out.println(c.size());
+		c.clear();
 
-		Order c3 = new Order();
+		c.add(new OrderLine(new Item("imported box of chocolate", 10), 1));
+		c.add(new OrderLine(new Item("imported bottle of perfume", (float) 47.50), 1));
 
-		c3.add(new OrderLine(new Item("imported bottle of perfume", (float) 27.99), 1));  // Imported is different than imported. casesensitive
-		c3.add(new OrderLine(new Item("bottle of perfume", (float) 18.99), 1));
-		c3.add(new OrderLine(new Item("packet of headache pills", (float) 9.75), 1));
-		c3.add(new OrderLine(new Item("box of imported chocolates", (float) 11.25), 1));
+		o.put("Order 2", new Order(c)); 
 
-		o.put("Order 3", c3);
-		//System.out.println(o.size());
-		
-		
+		// Reuse cart for an other order
+		c.clear();
+
+		c.add(new OrderLine(new Item("Imported bottle of perfume", (float) 27.99), 1));
+		c.add(new OrderLine(new Item("bottle of perfume", (float) 18.99), 1));
+		c.add(new OrderLine(new Item("packet of headache pills", (float) 9.75), 1));
+		c.add(new OrderLine(new Item("box of imported chocolates", (float) 11.25), 1));
+
+		o.put("Order 3", new Order(c));
+
 		new Calculator().calculate(o);
 
 	}
 }
-
-

@@ -42,11 +42,11 @@ public class OrderUnitTests {
 	
 	@Test
 	public void roundingEqualTest(){
-		Assert.assertEquals(2.24, Calculator.rounding(2.2365),0);
+		Assert.assertEquals(8.24, Calculator.rounding(8.2365),0);
 	}
 	@Test
 	public void roundingNotEqualTest(){
-		Assert.assertNotEquals(2.23, Calculator.rounding(2.2365),0);
+		Assert.assertNotEquals(8.23, Calculator.rounding(8.2365),0);
 	}
 	
 	@Test

@@ -302,3 +302,11 @@
 2016-10-17 23:00:09,278 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\main\resources
 2016-10-17 23:00:09,281 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-10-17 23:00:09,282 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\test\resources
+2016-10-17 23:17:42,638 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 23:17:42,640 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\main\resources
+2016-10-17 23:17:42,642 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 23:17:42,643 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\test\resources
+2016-10-17 23:20:54,285 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 23:20:54,287 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\main\resources
+2016-10-17 23:20:54,291 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-17 23:20:54,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prathyush\Desktop\CodingAssesment\Coding Assesment\src\test\resources

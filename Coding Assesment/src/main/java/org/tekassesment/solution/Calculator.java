@@ -7,7 +7,7 @@ public class Calculator {
 
 	public static double rounding(double value) {
 
-		return Math.round(value*100.0)/100.0; // round() function rounds the double value to 2 digit 
+		return Math.round(value*100.0)/100.0;   // Math.round will round of 2 digits based on 3 digit 
 
 	}
 
@@ -24,7 +24,7 @@ public class Calculator {
 		// Iterate through the orders
 		for (Map.Entry<String, Order> entry : o.entrySet()) {
 			System.out.println("*******" + entry.getKey() + "*******");
-			//grandtotal = 0;          // we can not initialize grand total inside loop. It will make it zero everytime.
+			//grandtotal = 0;                      // Already intialized, or else it will make grandtotal to 0 everytime
 
 			Order r = entry.getValue();
 			//System.out.println(r.size());
@@ -33,7 +33,7 @@ public class Calculator {
 			double total = 0;
 
 			// Iterate through the items in the order
-			for (int i = 0; i < r.size(); i++) {    // array size is n means iterate from 0 to size()-1
+			for (int i = 0; i < r.size(); i++) {    //array size starts from 0 so it should be less than size.
 
 				// Calculate the taxes
 				double tax = 0;
@@ -49,14 +49,14 @@ public class Calculator {
 				}
 
 				// Calculate the total price
-				double totalpric = r.get(i).getItem().getPrice() + rounding(tax);
+				double totalprice = r.get(i).getItem().getPrice() + rounding(tax);
 
 				// Print out the item's total price
-				System.out.println(r.get(i).getItem().getDescription() + ": " + rounding(totalpric));
+				System.out.println(r.get(i).getItem().getDescription() + ": " + rounding(totalprice));
 
 				// Keep a running total
 				totalTax += tax;
-				total += totalpric;  // totalprice is calculated . but not used. accessing old values
+				total += r.get(i).getItem().getPrice()-tax;   //will get the total without the tax
 			}
 
 			// Print out the total taxes

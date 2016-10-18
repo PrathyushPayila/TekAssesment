@@ -5,7 +5,17 @@ import java.util.List;
 
 public class Order {
 
-	private List<OrderLine> orderLines = new ArrayList<OrderLine>();  // initialized list object, null pointer exception error
+	private List<OrderLine> orderLines;
+	
+	public Order()                         // Intialize orderlines
+	{
+		this.orderLines=new ArrayList<>();
+	}
+	
+	public Order(Order o)                   //constructor with an argument
+	{
+		this.orderLines=new ArrayList<>(o.orderLines);
+	}
 
 	public void add(OrderLine o) throws Exception {
 		if (o == null) {
