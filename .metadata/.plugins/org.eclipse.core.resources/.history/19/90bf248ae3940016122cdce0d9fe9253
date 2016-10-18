@@ -12,7 +12,7 @@ public class Order {
 		this.orderLines=new ArrayList<>();
 	}
 	
-	public Order(Order o)                   //copy contructor
+	public Order(Order o)                   //constructor with an argument
 	{
 		this.orderLines=new ArrayList<>(o.orderLines);
 	}

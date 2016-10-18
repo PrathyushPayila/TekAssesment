@@ -27,6 +27,7 @@ public class Calculator {
 			//grandtotal = 0;                      // Already intialized, or else it will make grandtotal to 0 everytime
 
 			Order r = entry.getValue();
+			//System.out.println(r.size());
 
 			double totalTax = 0;
 			double total = 0;
